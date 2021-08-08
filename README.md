@@ -3,4 +3,4 @@ this is a jdbc and sqlite connectivity in java and I have created a database, ta
 
 the code for this project is present in 
 
-src folder ---> sqllite folder ---> sqliteconnectivity.java 
+src folder ---> sqllite folder ---> SqliteConnectivity.java 
